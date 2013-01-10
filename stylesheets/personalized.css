@@ -1,0 +1,22 @@
+.navlinks {
+	font-family: 'century gothic';
+	color: #aaaaaa;
+	text-decoration: none;
+	font-size: 1.5em;
+	padding-right: 0.6em;
+}
+
+.righty {
+	margin-top: 70px;
+}
+
+#contents4all {
+	margin-top: 5px;
+	min-height: 417px;
+}
+
+.socialicons {
+	display: inline;
+	padding-top: 10px;
+   	height: 30px;
+}
