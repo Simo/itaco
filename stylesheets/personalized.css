@@ -1,9 +1,18 @@
+body {
+	font-size: 14px !important;
+	line-height: 21px;
+}
+
 .navlinks {
 	font-family: 'century gothic';
-	color: #aaaaaa;
+	color: #aaaaaa !important;
 	text-decoration: none;
 	font-size: 1.5em;
 	padding-right: 0.6em;
+}
+
+.navlinks:hover {
+	color: #111111 !important;
 }
 
 .righty {

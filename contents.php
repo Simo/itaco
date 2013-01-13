@@ -68,7 +68,6 @@
      
   </head>
   <body >
-  <?php include 'controllers/contents_controller.php';?>
   <!-- Primary Page Layout
  ================================================== -->
 
@@ -123,9 +122,9 @@
        <div id="colorbox-items">
          <a class="colorboxSlider openBoxButton cboxElement" href="ajax-sliders/simple-slider.html" rel="">
          <div id="circle_photos" class="four columns pics">
-           <img src="http://flickholdr.com/220/150/bw" class="med-fade scale-with-grid" alt="">
-           <img src="http://flickholdr.com/220/150/sun" class="med-fade scale-with-grid" alt="">
-           <img src="http://flickholdr.com/220/150/snow" class="med-fade scale-with-grid" alt="">
+           <img src="images/works/2_mini.jpg" class="med-fade scale-with-grid" alt="">
+           <img src="images/works/3_mini.jpg" class="med-fade scale-with-grid" alt="">
+           <img src="images/works/4_mini.jpg" class="med-fade scale-with-grid" alt="">
          </div>
          </a>
        </div>
