@@ -7,3 +7,7 @@
   $(function() {
     $('.navlinks').tipsy();
   });
+
+    $(function() {
+    $('.socialicons').tipsy();
+  });

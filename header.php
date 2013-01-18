@@ -6,7 +6,11 @@
 	<?php
 
 	foreach ($menus as $menu) {
-		echo '<a class="navlinks" href="./'.$menu[2].'.php?lang='.$lang.'" title="'.$menu[1].'">'.$menu[0].'</a>';
+		if($menu[2] == $pageName){
+			echo '<a class="navlinks active" href="./'.$menu[2].'.php?lang='.$lang.'" title="'.$menu[1].'">'.$menu[0].'</a>';
+		} else {
+			echo '<a class="navlinks active" href="./'.$menu[2].'.php?lang='.$lang.'" title="'.$menu[1].'">'.$menu[0].'</a>';
+		}
 	}
 
 	?>
