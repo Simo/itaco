@@ -1,5 +1,5 @@
 body {
-	font-family: 'Open Sans','Helvetica Neue', Arial, sans-serif;
+	font-family: 'century gothic', Arial, sans-serif;
 	font-size: 14px;
 	color: #111;
 	line-height: 21px;
@@ -57,6 +57,7 @@ h4,h5,h6 {
 }
 p {
 	margin-bottom: 8px;
+	text-align: justify;
 }
 ul, ol {
 	margin: 0 0 12px 24px;
